@@ -63,15 +63,6 @@
       button3.UseVisualStyleBackColor = true;
       button3.Click += button3_Click;
       // 
-      // button4
-      // 
-      button4.Location = new Point(298, 82);
-      button4.Name = "button4";
-      button4.Size = new Size(94, 29);
-      button4.TabIndex = 3;
-      button4.Text = "button4";
-      button4.UseVisualStyleBackColor = true;
-      // 
       // Form1
       // 
       AutoScaleDimensions = new SizeF(8F, 20F);
